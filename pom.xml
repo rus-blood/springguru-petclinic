@@ -45,6 +45,6 @@
     </build>
 
     <scm>
-      <developerConnection>scm:git:git@github.com/rus-blood/springguru-petclinic.git</developerConnection>
+      <developerConnection>scm:git:https://github.com/rus-blood/springguru-petclinic.git</developerConnection>
   </scm>
 </project>
